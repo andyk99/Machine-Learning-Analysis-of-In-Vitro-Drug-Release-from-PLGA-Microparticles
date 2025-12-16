@@ -15,12 +15,3 @@ This repository contains a machine learning study analyzing in vitro drug releas
 
 - **Dataset (`mp_dataset_processed.xlsx`)**  
   Processed formulation and release dataset used as the sole input to the modeling workflow.
-
-## Repository Structure
-
-```text
-.
-├── paper.pdf
-├── modeling.ipynb
-├── mp_dataset_processed.xlsx
-└── README.md
